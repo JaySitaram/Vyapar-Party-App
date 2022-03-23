@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "613894129760",
+    "project_id": "zyp-app-3ecc5",
+    "storage_bucket": "zyp-app-3ecc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613894129760:android:d8fdb62a4b10a71f85db05",
+        "android_client_info": {
+          "package_name": "com.example.vyapar_party_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613894129760-1df3eevkumuf2sp0vrcu9bq98165bl2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vyapar_party_app",
+            "certificate_hash": "81412bae085c157953043dd93ad977e1b7d9f07e"
+          }
+        },
+        {
+          "client_id": "613894129760-f4tst1c2h3hgia2gchtjmi7fcnr8d0b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATbC4gGwUeMN63zLdv6cEmdG5ChfrAK8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613894129760-f4tst1c2h3hgia2gchtjmi7fcnr8d0b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

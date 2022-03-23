@@ -1,0 +1,30 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+import 'package:google_ml_kit/src/vision/vision.dart';
+import 'package:image_picker/image_picker.dart';
+import 'package:intl/intl.dart';
+import 'package:vyapar_party_app/model/create_income_model.dart';
+import 'package:vyapar_party_app/model/party_model.dart';
+import 'package:vyapar_party_app/model/product_model.dart';
+import 'package:vyapar_party_app/model/transaction_detail_model.dart';
+import 'package:vyapar_party_app/services/firebase_auth.dart';
+import 'package:vyapar_party_app/services/firebase_store.dart';
+import 'package:vyapar_party_app/services/get_network_manager.dart';
+import 'package:vyapar_party_app/services/hive_service.dart';
+import 'package:vyapar_party_app/services/shared_pref.dart';
+import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:collection/collection.dart';
+import 'package:vyapar_party_app/utils/utils.dart';
+
+import '../services/get_network_manager.dart';
+
+part 'add_product_view_model.dart';
+part 'home_view_model.dart';
+part 'income_expense_view_model.dart';
+part 'login_view_model.dart';
+part 'party_details_view_model.dart';
+part 'purchase_view_model.dart';
+part 'report_view_model.dart';
+part 'signup_view_model.dart';
+part 'view_party_view_model.dart';
